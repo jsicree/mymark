@@ -13,7 +13,7 @@ MyMark is (or currently, will be) an online marketplace that will allow customer
 
 ### NOTE
 
-The initial iterations of MyMark will be as an API. A web frontend will be added later.
+The initial iterations of MyMark will be as a REST API. A web front end will be added later.
 
 ### The MyMark Projects
 
