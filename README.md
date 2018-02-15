@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to MyMark
 
-You can use the [editor on GitHub](https://github.com/jsicree/mymark/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+MyMark is a simple online marketplace demo that will serve the following purposes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Show how to develop a simple web application using software architecture best practices. Technically, the project will be based on Java, Spring and other technologies.
+2. Enable the creation of a DevOps pipeline that will be used to deploy the application to multiple environments on AWS. 
+3. Demonstrate how to take a monolithic application and transform it to a microservices architecture.
+4. Tinker with new tools and technologies.
 
-### Markdown
+### About MyMark
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MyMark is (or currently, will be) an online marketplace that will allow customers to purchase products online.
 
-```markdown
-Syntax highlighted code block
+### NOTE
 
-# Header 1
-## Header 2
-### Header 3
+The initial iterations of MyMark will be as an API. A web frontend will be added later.
 
-- Bulleted
-- List
+### The MyMark Projects
 
-1. Numbered
-2. List
+MyMark currently consists of the following GitHub repositories:
 
-**Bold** and _Italic_ and `Code` text
+- [mymark](https://github.com/jsicree/mymark): The repo containing the GitHub pages website, Kanban board, and other project documents.
+- [mymark-monolith](https://github.com/jsicree/mymark-monolith): The repo containing MyMark monolithic application
 
-[Link](url) and ![Image](src)
-```
+### Useful Links
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsicree/mymark/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [The MyMark Website](https://jsicree.github.io/mymark)
+- [The MyMark Project Board](https://github.com/jsicree/mymark/projects)
+- [The MyMark Wiki](https://github.com/jsicree/mymark/wiki)
