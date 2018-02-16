@@ -1,6 +1,6 @@
 ## Welcome to MyMark
 
-MyMark is a simple online marketplace demo that will serve the following purposes:
+MyMark is an online marketplace demo that will serve the following purposes:
 
 1. Show how to develop a simple web application using software architecture best practices. Technically, the project will be based on Java, Spring and other technologies.
 2. Enable the creation of a DevOps pipeline that will be used to deploy the application to multiple environments on AWS. 
@@ -20,10 +20,10 @@ The initial iterations of MyMark will be as a REST API. A web front end will be 
 MyMark currently consists of the following GitHub repositories:
 
 - [mymark](https://github.com/jsicree/mymark): The repo containing the GitHub pages website, Kanban board, and other project documents.
-- [mymark-monolith](https://github.com/jsicree/mymark-monolith): The repo containing MyMark monolithic application
+- [mymark-monolith](https://github.com/jsicree/mymark-monolith): The repo containing the MyMark monolithic application
 
 ### Useful Links
 
 - [The MyMark Website](https://jsicree.github.io/mymark)
 - [The MyMark Project Board](https://github.com/jsicree/mymark/projects)
-- [The MyMark Wiki](https://github.com/jsicree/mymark/wiki)
+- [The MyMark Wiki](https://github.com/jsicree/mymark/wiki) _(Requires GitHub account)_
