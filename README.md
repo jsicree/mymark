@@ -26,4 +26,4 @@ MyMark currently consists of the following GitHub repositories:
 
 - [The MyMark Website](https://jsicree.github.io/mymark)
 - [The MyMark Project Board](https://github.com/jsicree/mymark/projects/1)
-- [The MyMark Wiki](https://github.com/jsicree/mymark/wiki) _(Requires GitHub account)_
+- [The MyMark Wiki](https://github.com/jsicree/mymark/wiki)
