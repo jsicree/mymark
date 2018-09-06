@@ -21,6 +21,7 @@ MyMark currently consists of the following GitHub repositories:
 
 - [mymark](https://github.com/jsicree/mymark): The repo containing the GitHub pages website, Kanban board, and other project documents.
 - [mymark-monolith](https://github.com/jsicree/mymark-monolith): The repo containing the MyMark monolithic application
+- [mymark-product-micro](https://github.com/jsicree/mymark-product-micro): The repo containing the MyMark Product Microservice
 
 ### Useful Links
 
