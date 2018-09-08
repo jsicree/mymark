@@ -20,8 +20,11 @@ The initial iterations of MyMark will be as a REST API. A web front end will be 
 MyMark currently consists of the following GitHub repositories:
 
 - [mymark](https://github.com/jsicree/mymark): The repo containing the GitHub pages website, Kanban board, and other project documents.
-- [mymark-monolith](https://github.com/jsicree/mymark-monolith): The repo containing the MyMark monolithic application
-- [mymark-product-micro](https://github.com/jsicree/mymark-product-micro): The repo containing the MyMark Product Microservice
+- [mymark-monolith](https://github.com/jsicree/mymark-monolith): The MyMark monolithic application
+- [mymark-customer-micro](https://github.com/jsicree/mymark-customer-micro): The MyMark Customer Microservice
+- [mymark-product-micro](https://github.com/jsicree/mymark-product-micro): The MyMark Product Microservice
+- [mymark-shoppingcart-micro](https://github.com/jsicree/mymark-shoppingcart-micro): The MyMark Shopping Cart Microservice
+- [mymark-order-micro](https://github.com/jsicree/mymark-order-micro): The MyMark Order Microservice
 
 ### Useful Links
 
