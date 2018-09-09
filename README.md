@@ -17,7 +17,7 @@ MyMark consists of the following GitHub repositories:
 - [mymark-product-micro](https://github.com/jsicree/mymark-product-micro): The MyMark Product Microservice
 - [mymark-shoppingcart-micro](https://github.com/jsicree/mymark-shoppingcart-micro): The MyMark Shopping Cart Microservice
 - [mymark-order-micro](https://github.com/jsicree/mymark-order-micro): The MyMark Order Microservice
-- [mymark-reference-micro](https://github.com/jsicree/mymark-reference-micro): The MyMark Reference Microservice
+- [mymark-client](https://github.com/jsicree/mymark-client): The MyMark Client
 
 ### Useful Links
 
